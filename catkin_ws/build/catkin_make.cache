@@ -1,0 +1,2 @@
+spar/spar_msgs:spar/spar_node
+-DCATKIN_DEVEL_PREFIX=/home/cdrone/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cdrone/catkin_ws/install -DCATKIN_WHITELIST_PACKAGES=spar_msgs;spar_node -G Unix Makefiles
